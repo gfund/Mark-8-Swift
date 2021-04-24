@@ -1,0 +1,122 @@
+Steve Jobs#7491 : !connectto server
+Steve Jobs#7491 : !connecto server
+Apple 2#6622 : Hello Jack Macklin#5881, you have logged in
+Steve Jobs#7491 : ;login
+Steve Jobs#7491 : !login
+Apple 2#6622 : Hello Jack Macklin#5881, you have logged in
+Steve Jobs#7491 : ;login
+Apple 2#6622 : Hello Jack Macklin#5881, you have logged in
+Steve Jobs#7491 : ;login
+Steve Jobs#7491 : !login
+Steve Jobs#7491 : <@!831763748389126164>
+UnbelievaBoat#1046 : **Command List**
+<https://unb.gg/commands>
+
+**Support Server**
+https://discord.gg/unb
+
+**Help Command Usage**
+`help [command or module]`
+provides help for a command or lists all commands in a module
+
+`help modules`
+lists all modules
+Rythm#3722 : 
+Steve Jobs#7491 : !help
+Steve Jobs#7491 : !login
+Steve Jobs#7491 : !login
+Steve Jobs#7491 : !login
+ATTF-4#6831 : Good is Apple working now?
+Apple 2#6622 : !echotoggle
+Apple 2#6622 : oh lol
+Apple 2#6622 : !login
+Steve Jobs#7491 : !login
+Steve Jobs#7491 : let me check the terminal
+Steve Jobs#7491 : its being funky
+Dr. Nicholas J. Keating, Esq#3604 : 🤷‍♂️
+Dr. Nicholas J. Keating, Esq#3604 : !login
+Steve Jobs#7491 : !login
+Steve Jobs#7491 : !login
+UnbelievaBoat#1046 : 
+Dr. Nicholas J. Keating, Esq#3604 : !money-audit-log enable <#835352553445261344>
+UnbelievaBoat#1046 : 
+Dr. Nicholas J. Keating, Esq#3604 : !set-currency $
+UnbelievaBoat#1046 : **Command List**
+<https://unb.gg/commands>
+
+**Support Server**
+https://discord.gg/unb
+
+**Help Command Usage**
+`help [command or module]`
+provides help for a command or lists all commands in a module
+
+`help modules`
+lists all modules
+Rythm#3722 : 
+Dr. Nicholas J. Keating, Esq#3604 : !help
+Rythm#3722 : **Playing** 🎶 `Unmute Me` - Now!
+Rythm#3722 : <:youtube:335112740957978625> **Searching** 🔎 `https://www.youtube.com/watch?v=Ni8EALImFgY`
+Rythm#3722 : :thumbsup: **Joined `Public Communications` and bound to <#826761422045446194>**
+RyaN#2877 : !p https://www.youtube.com/watch?v=Ni8EALImFgY
+Rythm#3722 : **Playing** 🎶 `Rick Astley - Never Gonna Give You Up (Video)` - Now!
+Rythm#3722 : <:youtube:335112740957978625> **Searching** 🔎 `https://www.youtube.com/watch?v=dQw4w9WgXcQ`
+Rythm#3722 : :thumbsup: **Joined `Public Communications` and bound to <#826761422045446194>**
+RyaN#2877 : !p https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Toro#4495 : !getroles
+Rythm#3722 : 
+Rythm#3722 : <:youtube:335112740957978625> **Searching** 🔎 `Jelly Roll Sunday Morning`
+The_Emperor#2171 : !p Jelly Roll Sunday Morning
+Rythm#3722 : **Playing** 🎶 `"Southern Land" by Taylor Ray Holbrook and Ryan Upchurch (Lyric video)` - Now!
+Rythm#3722 : <:youtube:335112740957978625> **Searching** 🔎 `Southern Land`
+Rythm#3722 : :thumbsup: **Joined `Leland Office` and bound to <#826761422045446194>**
+The_Emperor#2171 : !p Southern Land
+Dyno#3861 : 
+MarriageBot#7725 : 
+Dr. Nicholas J. Keating, Esq#3604 : yes
+MarriageBot#7725 : 
+Dr. Nicholas J. Keating, Esq#3604 : <@!738540057480396941>
+Dr. Nicholas J. Keating, Esq#3604 : do it again
+MarriageBot#7725 : 
+the leaf is real 🌿🍁🍂#7894 : Yet
+MarriageBot#7725 : 
+the leaf is real 🌿🍁🍂#7894 : I didn't birth u
+the leaf is real 🌿🍁🍂#7894 : No no no
+MarriageBot#7725 : 
+Puzzling, Hey?#6626 : m!makeparent <@!378982034502189062>
+MarriageBot#7725 : 
+Rythm#3722 : **Playing** 🎶 `Bruce Springsteen - Born In The U.S.A.` - Now!
+Rythm#3722 : <:youtube:335112740957978625> **Searching** 🔎 `born in the USA`
+UnbelievaBoat#1046 : 
+Rythm#3722 : ⏩ ***Skipped*** 👍
+Rythm#3722 : **Playing** 🎶 `Kevin Gates - Push It [Official Music Video]` - Now!
+Rythm#3722 : <:youtube:335112740957978625> **Searching** 🔎 `Push it`
+Rythm#3722 : :thumbsup: **Joined `Music Lounge` and bound to <#826761422045446194>**
+Rythm#3722 : 
+Rythm#3722 : <:youtube:335112740957978625> **Searching** 🔎 `you spin me right round`
+KingDriven#8931 : !p you spin me right round
+Rythm#3722 : ⏩ ***Skipped*** 👍
+KingDriven#8931 : !fs
+Rythm#3722 : 
+Rythm#3722 : <:youtube:335112740957978625> **Searching** 🔎 `together forever`
+KingDriven#8931 : !p together forever
+Rythm#3722 : ⏩ ***Skipped*** 👍
+KingDriven#8931 : !fs
+Rythm#3722 : **Skipping?** (1/4 people) **`!forceskip` or `!fs` to force**
+KingDriven#8931 : !s
+The_Emperor#2171 : ...
+Dr. Nicholas J. Keating, Esq#3604 : lol
+Rythm#3722 : 
+Rythm#3722 : **Playing** 🎶 `Clap Your Hands | Action Songs for Children |  The Kiboomers` - Now!
+Rythm#3722 : <:youtube:335112740957978625> **Searching** 🔎 `papers please theme`
+KingDriven#8931 : !p papers please theme
+Rythm#3722 : <:youtube:335112740957978625> **Searching** 🔎 `clap yor hands`
+Rythm#3722 : :thumbsup: **Joined `Oval Office` and bound to <#826761422045446194>**
+UnbelievaBoat#1046 : 
+Dr. Nicholas J. Keating, Esq#3604 : !play clap yor hands
+Rythm#3722 : **Playing** 🎶 `Rick Astley - Never Gonna Give You Up (Video)` - Now!
+Rythm#3722 : <:youtube:335112740957978625> **Searching** 🔎 `never gonna give you up`
+Rythm#3722 : :thumbsup: **Joined `Oval Office` and bound to <#826761422045446194>**
+Rythm#3722 : **Playing** 🎶 `Panic! At The Disco - High Hopes (Official Video)` - Now!
+Rythm#3722 : <:youtube:335112740957978625> **Searching** 🔎 `high hopes`
+Rythm#3722 : :thumbsup: **Joined `Music Lounge` and bound to <#826761422045446194>**
