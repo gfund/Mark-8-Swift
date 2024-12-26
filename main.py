@@ -1,4 +1,4 @@
-#Lightning Started 1/30/2021 
+# Mark 8 Swift 
 # Gunnar Funderburk
 from webs import keep_alive
 import discord
